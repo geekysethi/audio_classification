@@ -1,0 +1,8 @@
+
+*.png
+*.wav
+*.npy
+*.pdf
+*.gz
+*.pth
+*.pyc
